@@ -1,6 +1,6 @@
-# Darwins DVD Logo
+# Darwins DVDs
 
-This project was designed for the hackclub emerge ysws, which is a ysws where you try to make a complex system based on only a few simple rules. The rules for my project are as following:
+This project was designed to be an example of emergence, which is where a complex system is created using only a few simple rules. The rules for my project are as following:
 
 1. the user can click on the map to place a square
 2. squares move in a random direction and change directions every 5 seconds
